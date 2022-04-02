@@ -31,9 +31,9 @@ In-depth kennis nodig van:
 - VPN Gateway : A VPN gateway is a specific type of virtual network gateway that is used to send encrypted traffic between an Azure virtual network and an on-premises location over the public Internet. You can also use a VPN gateway to send encrypted traffic between Azure virtual networks over the Microsoft network. 
 - Virtual Network Peering : Met virtuele netwerk peering kunt u naadloos twee of meer virtuele netwerken in Azure verbinden. De virtuele netwerken worden weergegeven als een netwerk voor connectiviteitsdoeleinden.
 - ExpressRoute : Met ExpressRoute kunt u uw on-premises netwerken uitbreiden naar de Microsoft-cloud via een privéverbinding met behulp van een connectiviteitsprovider.
-- Container (Blob) Storage : Azure Blob Storage is de oplossing voor objectopslag van Microsoft voor de cloud. Blobopslag is geoptimaliseerd voor het opslaan van enorme hoeveelheden ongestructureerde gegevens. [Storage Types](../beschrijvingen/storage-types.md)
-- Disk Storage [Storage Types](../beschrijvingen/storage-types.md)
-- File Storage [Storage Types](../beschrijvingen/storage-types.md)
+- Container (Blob) Storage : Azure Blob Storage is de oplossing voor objectopslag van Microsoft voor de cloud. Blobopslag is geoptimaliseerd voor het opslaan van enorme hoeveelheden ongestructureerde gegevens. [Storage Types](../00_beschrijvingen/storage-types.md)
+- Disk Storage [Storage Types](../00_beschrijvingen/storage-types.md)
+- File Storage [Storage Types](../00_beschrijvingen/storage-types.md)
 - Storage Tiers : Azure-opslag biedt verschillende toegangsniveaus, zodat u uw blobgegevens op de meest kosteneffectieve manier kunt opslaan op basis van de manier waarop deze worden gebruikt. Azure Storage toegangsniveaus zijn: Hot tier, Coole laag, Archieflaag
 - Cosmos DB : Azure Cosmos DB is een volledig beheerde NoSQL-database voor moderne app-ontwikkeling. Responstijden met één cijfer in milliseconden en automatische en directe schaalbaarheid garanderen snelheid op elke schaal.
 - Azure SQL Database : Ondersteuning voor moderne cloudtoepassingen op een intelligente, beheerde databaseservice, die serverless compute bevat.

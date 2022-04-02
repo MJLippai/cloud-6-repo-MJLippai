@@ -4,4 +4,4 @@ The output should be:
 '''
 foo = 20
 bar = '80'
-print(foo + int(bar)) #added int() to convert string to integer
+print(foo + bar) #added int() to convert string to integer

@@ -7,6 +7,6 @@ there are 3 kids on the street
 there are 4 kids on the street
 '''
 foo = 0
-while foo <= 4: # Changed variable to 4
+while foo < 5: # removed the '=' sign
 	print('there are', foo, 'kids on the street')
 	foo += 1

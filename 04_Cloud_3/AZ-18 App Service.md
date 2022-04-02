@@ -11,8 +11,8 @@ Wanneer gebruike te maken van Azure App Service:
 ![Selecting Service](../00_includes/az-18.png)  
 
 ## Key-terms
-[App Service plan](../beschrijvingen/App_Service_Plan_+_Environment.md)  
-[Azure App Service Environment (ASEs)](../beschrijvingen/App_Service_Plan_+_Environment.md)  
+[App Service plan](../00_beschrijvingen/App_Service_Plan_+_Environment.md)  
+[Azure App Service Environment (ASEs)](../00_beschrijvingen/App_Service_Plan_+_Environment.md)  
 
 ### Gebruikte bronnen
 https://docs.microsoft.com/en-us/azure/app-service/overview  

@@ -27,7 +27,7 @@ Het aantal virtuele machines dat uw toepassing gebruikt, kan omhoog worden gesch
 -	Networking: defaults
 -	Boot diagnostics zijn niet nodig
 -	Custom data: 
-	#!/bin/bash
+#!/bin/bash
 sudo su
 apt update
 apt install apache2 -y

@@ -4,6 +4,8 @@ The output should be:
 '''
 import random
 
+# we coul not find an error with this code. Seems to work as intended.
+ 
 # generate random int
 goal = random.randint(1,100)
 
@@ -31,6 +33,7 @@ while win == False and tries < 7:
 	except:
 		print("Please type an integer")
 
-# 
+
 if win == False:
 	print("Game over! You took more than seven tries")
+

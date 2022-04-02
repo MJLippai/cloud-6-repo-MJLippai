@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  
+  "parameters": {
+    "environment": {
+      "value": "test"
+    
+    },
+    "versiontag": {
+      "value": {
+        "project_version": "1.0"
+      }
+    },
+    "rsgname": {
+      "value": "rsgprojectv1.1282" 
+    },
+    "pubkey": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDNEQdZcYrWAM9n6flIBlS7kNLfazmdTzPtBWyYepHj4oDjlzHisHBLGlNkT3DM6YF/LBbUKg2n47fhDWscv4hX7U8Gzfk/T7X6IveHMgZXz0tKMY2TryZQ1PZDzduxRWJfLDAuagVrYgynghb5hG/Quj9Zu9O0V/dT/qkyOpRErn37eyzEBYmmWmaUWaNWB3oKSH+/DpalLy1yYE3/SMIVd+Eil7EeUD3zueO+t7WbryhnNLD2T6oIx4Y8WQ6GjWEuPVCDVoB1JObN5ENPcvodcCWB3J/TMxaRmswnkiKKY44gwI/6U0+j+wXLnliyueZSL2HzRKEKyDeA+k8UHUXaOT7Sxadq/yJEMyShdEq4RLxoUkp4XdVYITJPfHSvaA8HFmBtGkccUSzorKDYSSCGrOvevU75AZXq9/eOX2EA6I2yzsyT0aQnxeeuh3vPI62fFW04fIlbk4O2+LildQ2IkAJ2MwMxQ6dS4pTH1tzn3TWMZhkYpI0iw+vLmQV+gFk="
+    },
+    "admintrust": {
+      "value": [
+        "82.169.176.78"
+      ]
+    },
+    "vm_admin_size": {
+      "value": "Standard_B1s"
+    },
+    "vm_webserver_size": {
+      "value": "Standard_B1s"
+    },
+    "objectIDuser": {
+      "value": "tobereplaced"
+    },
+    "kvg_name": {
+      "value": "tobereplaced"
+    }
+  }  
+}

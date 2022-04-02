@@ -11,7 +11,7 @@ De 6 belangrijke basiseigenschappen en voordelen van cloud computing zijn:
 -	Geo-distribution
 -	Disaster recovery
 
-Zie ook : [OPEX vs CAPEX](../beschrijvingen/OPEXvsCAPEX.md#OPEXvsCAPEX)   
+Zie ook : [OPEX vs CAPEX](../00_beschrijvingen/OPEXvsCAPEX.md#OPEXvsCAPEX)   
 
 ## Key-terms
 SLAs: service level agreements zorgen ervoor dat de cloud provider bepaalde uptime en connectiviteit garanties maakt waar ze zich aan moeten volgen.

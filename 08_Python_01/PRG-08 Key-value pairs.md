@@ -25,7 +25,7 @@ Write the information to a csv file (comma-separated values). The data should no
 Experience gained from edx.org
 
 ### Problems
-None.
+Some complications trying to save to the CSV in the exact format I wanted.
 
 ### Result 
 Explanatory comments provided in code linked below as necessary.  
@@ -35,3 +35,7 @@ Exercise 1 [Code](prg_scripts/prg08.1.py)
 Exercise 2 [Code](prg_scripts/prg08.2.py)  
 
 Associated [CSV](../06_Python_01/csv/dict.csv)
+
+Screenshot CSV after some entries:  
+
+![CSV](../00_includes/prg-08.png)

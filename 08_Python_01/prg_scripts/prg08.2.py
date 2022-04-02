@@ -1,6 +1,6 @@
 import csv
 
-#create empty dicttionary to use later
+#create empty dictionary to use later
 dictx = {}
 
 #create list with keys to be used for dictionary and for looping
